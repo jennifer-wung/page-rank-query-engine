@@ -1,4 +1,4 @@
-package part4.HBase;
+package load-to-hbase.HBase;
 
 import java.io.IOException;
 import java.io.BufferedReader;
