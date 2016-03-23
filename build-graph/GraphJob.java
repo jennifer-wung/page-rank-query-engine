@@ -15,7 +15,7 @@ public class GraphJob {
 
         public static void main(String[] args) throws Exception {
                 JobConf conf = new JobConf(GraphJob.class);
-                conf.setJobName("HW2_part1");
+                conf.setJobName("build-graph");
 
                 conf.setMapOutputKeyClass(Text.class);
                 conf.setMapOutputValueClass(Text.class);
