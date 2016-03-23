@@ -1,4 +1,4 @@
-package part2.Job1_5;
+package calculate-page-rank.Job1_5;
 
 import java.io.IOException;
 import java.util.regex.Matcher;

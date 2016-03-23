@@ -1,15 +1,15 @@
-package part2;
+package calculate-page-rank;
 
-import part2.Job0.TotalLinksMapper;
-import part2.Job0.TotalLinksReducer;
-import part2.Job1.GraphMapper;
-import part2.Job1.GraphReducer;
-import part2.Job1_5.virtualNodeHandlerMapper;
-import part2.Job1_5.virtualNodeHandlerReducer;
-import part2.Job2.PageRankMapper;
-import part2.Job2.PageRankReducer;
-import part2.Job3.RankingMapper;
-import part2.Job3.RankingKeyComparator;
+import calculate-page-rank.Job0.TotalLinksMapper;
+import calculate-page-rank.Job0.TotalLinksReducer;
+import calculate-page-rank.Job1.GraphMapper;
+import calculate-page-rank.Job1.GraphReducer;
+import calculate-page-rank.Job1_5.virtualNodeHandlerMapper;
+import calculate-page-rank.Job1_5.virtualNodeHandlerReducer;
+import calculate-page-rank.Job2.PageRankMapper;
+import calculate-page-rank.Job2.PageRankReducer;
+import calculate-page-rank.Job3.RankingMapper;
+import calculate-page-rank.Job3.RankingKeyComparator;
 
 import org.apache.hadoop.fs.Path;
 import org.apache.hadoop.fs.FileSystem;

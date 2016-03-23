@@ -1,4 +1,4 @@
-package part2.Job3;
+package calculate-page-rank.Job3;
 
 import org.apache.hadoop.io.FloatWritable;
 import org.apache.hadoop.io.WritableComparator;
