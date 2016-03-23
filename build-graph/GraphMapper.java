@@ -1,4 +1,4 @@
-package part1;
+package build-graph;
 
 import java.io.IOException;
 import java.util.regex.Matcher;
