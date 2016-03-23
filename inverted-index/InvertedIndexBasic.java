@@ -1,4 +1,4 @@
-package part3;
+package inverted-index;
 
 import org.apache.hadoop.fs.Path;
 import org.apache.hadoop.io.Text;

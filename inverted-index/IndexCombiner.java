@@ -1,4 +1,4 @@
-package part3;
+package inverted-index;
 
 import java.io.IOException;
 import java.util.HashMap;
